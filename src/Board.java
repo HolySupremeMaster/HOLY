@@ -15,6 +15,6 @@ list.listeyiYazdir();
         list.indexeEkle(-4, 33);
         list.indexeEkle(0, 6);
         list.listeyiYazdir();
-
+        System.out.println("HAHAHAHHA");
     }
 }
